@@ -59,7 +59,7 @@ Based on these checks, it calculates a risk score and classifies the URL as:
 
 ## 📸 Screenshot
 
-(Add a screenshot here after uploading it to GitHub.)
+![PhishGuard Screenshot](Screenshot 2026-07-01 210958.png)
 
 ---
 
